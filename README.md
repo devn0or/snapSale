@@ -1,2 +1,3 @@
 # snapSale
-mern e-commerce
+mern e-commerce.
+work in progress⚠
